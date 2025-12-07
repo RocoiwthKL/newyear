@@ -116,14 +116,16 @@ body {
 
 @media screen and (max-width: 1920px) {
   .canvas-container {
-    background-image: url(https://pic1.imgdb.cn/item/67938e85d0e0a243d4f7a259.jpg);
+/*  background-image: url(https://pic1.imgdb.cn/item/67938e85d0e0a243d4f7a259.jpg);*/
+    background-image: url(https://pic1.imgdb.cn/item/6934f629b20847ff2b5eb5fa.jpg);
     transition: background-image 0.3s;
   }
 }
 @media screen and (min-width: 1920px) {
   .canvas-container {
     transition: background-image 0.3s;
-    background-image: url(https://pic1.imgdb.cn/item/67617381d0e0a243d4e58298.jpg);
+/*  background-image: url(https://pic1.imgdb.cn/item/67617381d0e0a243d4e58298.jpg);*/
+    background-image: url(https://pic1.imgdb.cn/item/6934f29db20847ff2b5e9ca9.jpg);
   }
 }
 
@@ -403,3 +405,4 @@ body {
   transition-timing-function: ease-out;
   transition-duration: 0.4s;
 }
+
